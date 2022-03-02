@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AbdurRahman04
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning data science using python 
-- 💞️ I’m looking for MS position and data science job 
+- 👋 Hi, I’m Abdur Rahman
+- 👀 I’m junior Data Scienctest   
+- 🌱 I’m currently learning data science using python and love Machine Learning 
+- 💞️ I’m looking for MS position and Data sciencetset jobs 
 - 📫 Email:abdurrahman53616@gmail.com
 -    WhatsApp No: +923046853616
 -    Skype:+923046853616  
