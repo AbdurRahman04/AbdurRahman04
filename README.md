@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdur Rahman
-- 👀 I’m junior Data Scienctest   
+- 👀 I’m junior Data Scientist  
 - 🌱 I’m currently learning data science using python and love Machine Learning 
 - 💞️ I’m looking for MS position and Data sciencetset jobs 
 - 📫 Email:abdurrahman53616@gmail.com
